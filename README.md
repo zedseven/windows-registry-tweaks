@@ -27,3 +27,7 @@ using this Registry key.
 ### Developer Mode
 This allows you to create symbolic links without giving applications
 admin privileges, probably among other things.
+
+### Disable Taskbar Notification Flashing
+Disable taskbar programs flashing orange when they're trying to get
+your attention.
